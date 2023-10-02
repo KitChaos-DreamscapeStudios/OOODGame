@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/Unity.Searcher.Editor.csproj": {}
+  },
+  "projects": {
+    "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/Unity.Searcher.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/Unity.Searcher.Editor.csproj",
+        "projectName": "Unity.Searcher.Editor",
+        "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/Unity.Searcher.Editor.csproj",
+        "packagesPath": "/home/kitchaos/.nuget/packages/",
+        "outputPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kitchaos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.TestRunner.csproj"
+              },
+              "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.UI.csproj": {
+                "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.UI.csproj"
+              },
+              "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj"
+              },
+              "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.UI.csproj": {
+                "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/kitchaos/.dotnet/sdk/7.0.401/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/home/kitchaos/.nuget/packages/",
+        "outputPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kitchaos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/kitchaos/.dotnet/sdk/7.0.401/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.UI.csproj",
+        "packagesPath": "/home/kitchaos/.nuget/packages/",
+        "outputPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kitchaos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEditor.TestRunner.csproj"
+              },
+              "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj"
+              },
+              "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.UI.csproj": {
+                "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/kitchaos/.dotnet/sdk/7.0.401/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/home/kitchaos/.nuget/packages/",
+        "outputPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kitchaos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/kitchaos/.dotnet/sdk/7.0.401/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/UnityEngine.UI.csproj",
+        "packagesPath": "/home/kitchaos/.nuget/packages/",
+        "outputPath": "/home/kitchaos/Documents/GitHub/OOODGame/OOODProj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kitchaos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/kitchaos/.dotnet/sdk/7.0.401/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
